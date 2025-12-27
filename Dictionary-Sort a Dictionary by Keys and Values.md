@@ -41,5 +41,5 @@ for key, value in sorted_items:
 <img width="1244" height="260" alt="image" src="https://github.com/user-attachments/assets/67326304-2c76-46a7-8587-177d0dd7b887" />
 
 ## Result
-Thus, the program executed successfully./>
+Thus, the program executed successfully.
 
